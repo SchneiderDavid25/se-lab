@@ -1,6 +1,6 @@
 # SE Spaceship
 
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![example workflow](https://github.com/github/docs/actions/workflows/maven.yml/badge.svg)
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
 
